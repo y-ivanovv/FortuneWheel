@@ -18,8 +18,8 @@
 ### 🔧 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/твой-никнейм/название-репозитория.git
-cd название-репозитория
+git clone https://github.com/y-ivanovv/FortuneWheel.git
+cd FortuneWheel
 ```
 
 ### 📦 2. Установка зависимостей
@@ -57,18 +57,6 @@ python manage.py createsuperuser
 
 # Перейди на
 http://127.0.0.1:8000/admin
-```
-
----
-
-## 🧪 Пример .env файла (не забудь создать в backend и frontend)
-
-### backend/.env
-
-```
-DEBUG=True
-SECRET_KEY=your-secret-key
-ALLOWED_HOSTS=127.0.0.1,localhost
 ```
 
 ---
